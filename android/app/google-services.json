@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691055716364",
+    "project_id": "fuelwise-e9d64",
+    "storage_bucket": "fuelwise-e9d64.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691055716364:android:f236cf18a75b2411592629",
+        "android_client_info": {
+          "package_name": "br.unigra.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfMl3rWhR7oof0L-TtqhGDwn42kxq1zC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
